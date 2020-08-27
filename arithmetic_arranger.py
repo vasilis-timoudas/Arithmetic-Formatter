@@ -18,7 +18,7 @@ def arithmetic_arranger(problems, solutions=False):
         if not op in ["+", "-"]:
             return "Error: Operator must be '+' or '-'."
 
-        # Each number don't contains digits.
+        # Each number don't contains digits
         if not num1.isdigit() or not num2.isdigit():
             return "Error: Numbers must only contain digits."
 
