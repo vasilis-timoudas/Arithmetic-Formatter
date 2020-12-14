@@ -1,6 +1,6 @@
-# Scientific Computing with Python Projects - Arithmetic Formatter
+# freeCodeCamp - Scientific Computing with Python
 # https://www.linkedin.com/in/vasilis-timoudas
-# https://github.com/vasilistimoudas
+# https://github.com/vasilis-timoudas
 
 def arithmetic_arranger(problems, solutions=False):
     # There are more than 5 problems (the limit is 5)
