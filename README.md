@@ -1,5 +1,5 @@
 # Arithmetic-Formatter
-Scientific Computing with Python Projects - Arithmetic Formatter
+freeCodeCamp - Scientific Computing with Python
 
 ### Assignment
 
